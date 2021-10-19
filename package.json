@@ -1,0 +1,12 @@
+{
+    "name": "cli-alerts",
+    "version": "0.0.0",
+    "description": "Package for handling CLI alerts",
+    "bin": {
+        "run": "./index.js"
+    },
+    "author": {
+        "name": "Martin Capovcak",
+        "email": "martin.capovcak@gmail.com"
+    }
+}
