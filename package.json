@@ -1,6 +1,6 @@
 {
 	"name": "bee-alerts",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Cross platform CLI Alerts handling with colors & colored symbols for success, info, warning, error. Works on macOS, Linux, Windows",
 	"license": "MIT",
 	"repository": "martincapovcak/cli-alerts",
